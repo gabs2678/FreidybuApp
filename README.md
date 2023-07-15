@@ -1,0 +1,2 @@
+# FreidybuApp
+freidybu
